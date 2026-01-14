@@ -2,7 +2,7 @@
 
 Backend part of the EDF viewer application, written in Spring.
 
-EDF files (European Data Format) is a binary file format for storing biomedical time-series data used in healthcare.
+EDF files (European Data Format) are storing biomedical time-series data used in healthcare.
 
 ### Requirements
 * **Java 21+**
